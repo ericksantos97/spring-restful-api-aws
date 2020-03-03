@@ -1,7 +1,7 @@
 language: bash
 services: docker
 before_install:
-  -  cd C:\\Projetos\\CURSOS\\RESTFUL-API
+  -  cd spring-restful-api
   -  echo "We are in the Docker folder!"
 script:
   -  docker-compose build
