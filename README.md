@@ -2,8 +2,8 @@
 
 ## Tecnologias utilizadas
 
-|**SPRING (BOOT, HATEOAS, DATA, SECURITY)** |**JAVA 11**  | **DOCKER** | **TRAVISCI** | **MYSQL** |
-|--|--|--|--|--|
+|**SPRING (BOOT, HATEOAS, DATA, SECURITY)** |**JAVA 11**  | **DOCKER** | **TRAVISCI** | **MYSQL** | **FLYWAY** 
+|--|--|--|--|--|--|
 
 
 ## Descrição 
